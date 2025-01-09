@@ -1,4 +1,3 @@
-##  سسیبA
 # Analysis of free video game
 ## Project Description:d
 This project focuses on analyzing the dataset of free video games.
